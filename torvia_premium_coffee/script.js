@@ -5,7 +5,7 @@
    Format: country code + number, digits only, no + or spaces.
    Example for India: '919876543210'
    ============================================================ */
-const WHATSAPP_NUMBER = '919XXXXXXXXX';
+const WHATSAPP_NUMBER = '919008522092';
 
 /* ---------- state ---------- */
 let cart = [];
